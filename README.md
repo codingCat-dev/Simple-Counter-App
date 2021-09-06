@@ -1,3 +1,3 @@
 # Simple-Counter-App
 Basic JavaScript, HTML, CSS Compiled in sass
-Live Preview :
+Live Preview : https://codingcat-dev.github.io/Simple-Counter-App/
